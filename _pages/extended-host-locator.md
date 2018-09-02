@@ -1,0 +1,13 @@
+---
+ID: 3563
+post_title: Extended Host Locator
+author: admin
+post_excerpt: ""
+layout: page
+permalink: >
+  http://prod1.compareweb.hosting/extended-host-locator/
+published: true
+post_date: 2018-05-13 16:45:22
+---
+[vc_row centered_container="true" css=".vc_custom_1482756682037{background: #0a0202 url(http://redirect.wpsoul.net/wp-content/uploads/2016/05/homemain.jpg?id=) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}"][vc_column width="1/6"][/vc_column][vc_column width="2/3" css=".vc_custom_1464185277813{padding-top: 0px !important;}"][vc_empty_space height="80px"][vc_custom_heading text="Example of business locator form" font_container="tag:h1|font_size:46px|text_align:center|color:%23ffffff|line_height:52px" google_fonts="font_family:Roboto%3A100%2C100italic%2C300%2C300italic%2Cregular%2Citalic%2C500%2C500italic%2C700%2C700italic%2C900%2C900italic|font_style:900%20bold%20regular%3A900%3Anormal"][vc_empty_space height="20px"][vc_custom_heading text="This is example of form when you can separate search form and map results,
+using different shortcodes. There are several custom form and search templates in theme" font_container="tag:div|font_size:18px|text_align:center|color:%23ffffff|line_height:22px" google_fonts="font_family:Roboto%3A100%2C100italic%2C300%2C300italic%2Cregular%2Citalic%2C500%2C500italic%2C700%2C700italic%2C900%2C900italic|font_style:300%20light%20regular%3A300%3Anormal"][vc_empty_space height="35px"][vc_custom_heading text="Looking for an expert or merchant?" font_container="tag:div|font_size:22px|text_align:center|color:%23ffffff|line_height:22px" google_fonts="font_family:Roboto%3A100%2C100italic%2C300%2C300italic%2Cregular%2Citalic%2C500%2C500italic%2C700%2C700italic%2C900%2C900italic|font_style:700%20bold%20regular%3A700%3Anormal"][vc_empty_space height="35px"][vc_row_inner el_class="text-center"][vc_column_inner][vc_column_text][gmw form="2"][/vc_column_text][/vc_column_inner][/vc_row_inner][vc_empty_space height="60px"][vc_column_text css=".vc_custom_1482760950841{margin-bottom: -60px !important;}"][gmw map="2"][/vc_column_text][/vc_column][vc_column width="1/6"][/vc_column][/vc_row][vc_section css=".vc_custom_1482757361445{margin-top: -60px !important;}"][vc_row][vc_column][vc_empty_space height="110px"][vc_column_text][wcv_vendorslist show_products=no][/vc_column_text][/vc_column][/vc_row][/vc_section]
